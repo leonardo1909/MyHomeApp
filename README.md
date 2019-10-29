@@ -1,16 +1,7 @@
-# home_automation
+# MyHome
 
-A new Flutter project.
+A Flutter project to easaly integrate mobile devices with home assistante lovelace.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For this first version you just have to setup you HomeAssistant in the port 192.168.1.105:8123 and enjoy.
