@@ -46,7 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
         // the App.build method, and use it to set our appbar title.
       ),
       body: WebView(
-        initialUrl: 'https://192.168.1.105:8123',
+        initialUrl: 'http://192.168.1.105:8123',
         javascriptMode: JavascriptMode.unrestricted,
       )
     );

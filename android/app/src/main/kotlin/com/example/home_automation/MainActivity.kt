@@ -1,4 +1,4 @@
-package com.example.home_automation
+package myapp.home_automation
 
 import android.os.Bundle
 
